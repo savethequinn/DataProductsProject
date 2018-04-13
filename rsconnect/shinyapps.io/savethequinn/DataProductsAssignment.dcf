@@ -1,0 +1,12 @@
+name: DataProductsAssignment
+title: DataProductsAssignment
+username:
+account: savethequinn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 321908
+bundleId: 1317972
+url: https://savethequinn.shinyapps.io/DataProductsAssignment/
+when: 1523659321.47944
+asMultiple: FALSE
+asStatic: FALSE

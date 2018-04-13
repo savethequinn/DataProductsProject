@@ -1,0 +1,13 @@
+name: DataProductsAssigment
+title: DataProductsAssigment
+username:
+account: savethequinn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 321904
+bundleId: 1317966
+url: https://savethequinn.shinyapps.io/DataProductsAssigment/
+when: 1523659034.0317
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R
