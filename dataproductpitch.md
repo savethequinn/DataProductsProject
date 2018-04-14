@@ -15,21 +15,17 @@ As marketers, we should understand ways that we can analyze our customers' behav
 
 Online Influence on In-store Purchases
 ========================================================
-In traditional retail, business experts are focused on understanding who should receive credit for each sale, but it is not easy to bridge the gap between in-store purchases and online browsing history.
-
 Consider this scenario:
 
 A customer is looking for a branded stand mixer to add to their kitchen tools but would like to see the physical unit before purchasing. They search for the mixer online and find the product they like on your site. The customer does not convert online because of lack of information and plans to go into the nearest store this weekend. You send a targeted email to help them find more information, but they are still hesitant to purchase until going to the store. They visit your local store location on Saturday and finally decided they have enough information to buy, and you have the best price in the market.
 
-How do we give credit to the digital marketing tactics and report their contribution to the customer's journey to this in-store purchase?
+How do we give credit to the digital marketing tactics and report their contribution to this in-store purchase?
 
 Your Omnichannel Reporting Solution
 ========================================================
 The answer is the **Online Influence Analysis Application**!
 
-The Online Influence Analysis App allows you to give credit to your Marketing teams based on their influence to the customer journey even if the customers journey end in the store. This is your customized reporing solution to give credit where credit is due! 
-
-Users can select the look-back window that makes sense for their team.
+The Online Influence Analysis App allows you to report sales to your Marketing teams based on their influence to the customer's journey even if the journey ends in the store.
 
 <div align="center">
 <img src="demo.png">
@@ -41,6 +37,6 @@ Access the interactive demo by clicking <a href="https://savethequinn.shinyapps.
 
 
 
-The demo allows you to explore how a total of $2002.92 of in-store sales from 25 customers could be attributed to digital marketing tactics based on customer browsing behavior. You can pick the lookback window to see how the attribution changes with different assumptions on the customer journey.
+The demo allows you to explore how a total of $2002.92 of in-store sales from 25 customers could be attributed to digital marketing tactics based on customer browsing behavior. Try changing the lookback window to see how the credit attribution changes with different assumptions on length of the customer journey.
 
 **We hope you consider us as your next Omnichannel reporting solution!**
